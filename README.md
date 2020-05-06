@@ -4,3 +4,4 @@
 2. May 2, 2020 - [Problem Name: Jewels and Stones](challenges/may_2_2020/)
 3. May 3, 2020 - [Problem Name: Ransom Note](challenges/may_3_2020/)
 4. May 4, 2020 - [Problem Name: Number Compliment](challenges/may_4_2020/)
+5. May 5, 2020 - [Problem Name: First Unique Character in a String](challenges/may_5_2020/)
