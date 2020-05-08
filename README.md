@@ -6,3 +6,4 @@
 4. May 4, 2020 - [Problem Name: Number Compliment](challenges/may_4_2020/)
 5. May 5, 2020 - [Problem Name: First Unique Character in a String](challenges/may_5_2020/)
 6. May 6, 2020 - [Problem Name: Majority Element](challenges/may_6_2020/)
+7. May 7, 2020 - [Problem Name: Cousins in Binary Tree](challenges/may_7_2020/)
