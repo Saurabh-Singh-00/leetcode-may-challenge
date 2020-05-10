@@ -8,3 +8,4 @@
 6. May 6, 2020 - [Problem Name: Majority Element](challenges/may_6_2020/)
 7. May 7, 2020 - [Problem Name: Cousins in Binary Tree](challenges/may_7_2020/)
 8. May 8, 2020 - [Problem Name: Check If It Is a Straight Line](challenges/may_8_2020/)
+8. May 9, 2020 - [Problem Name: Valid Perfect Square](challenges/may_9_2020/)
