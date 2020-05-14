@@ -12,3 +12,4 @@
 10. May 10, 2020 - [Problem Name: Find the Town Judge](challenges/may_10_2020/)
 11. May 11, 2020 - [Problem Name: Flood Fill](challenges/may_11_2020/)
 12. May 12, 2020 - [Problem Name: Single Element in a Sorted Array](challenges/may_12_2020/)
+13. May 13, 2020 - [Problem Name: Remove K Digits](challenges/may_13_2020/)
