@@ -15,3 +15,4 @@
 - May 13, 2020 - [Problem Name: Remove K Digits](challenges/may_13_2020/)
 - May 14, 2020 - [Problem Name: Implement Trie (Prefix Tree)](challenges/may_14_2020/)
 - May 15, 2020 - [Problem Name: Maximum Sum Circular Subarray](challenges/may_15_2020/)
+- May 16, 2020 - [Problem Name: Maximum Odd Even Linked List](challenges/may_16_2020/)
