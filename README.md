@@ -18,3 +18,4 @@
 - May 16, 2020 - [Problem Name: Maximum Odd Even Linked List](challenges/may_16_2020/)
 - May 17, 2020 - [Problem Name: Find All Anagrams in a String](challenges/may_17_2020/)
 - May 18, 2020 - [Problem Name: Permutation in String](challenges/may_18_2020/)
+- May 19, 2020 - [Problem Name: Online Stock Span](challenges/may_19_2020/)
