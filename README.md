@@ -19,3 +19,4 @@
 - May 17, 2020 - [Problem Name: Find All Anagrams in a String](challenges/may_17_2020/)
 - May 18, 2020 - [Problem Name: Permutation in String](challenges/may_18_2020/)
 - May 19, 2020 - [Problem Name: Online Stock Span](challenges/may_19_2020/)
+- May 20, 2020 - [Problem Name: Kth Smallest Element in a BST](challenges/may_20_2020/)
