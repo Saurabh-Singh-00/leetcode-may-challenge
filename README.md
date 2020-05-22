@@ -20,3 +20,4 @@
 - May 18, 2020 - [Problem Name: Permutation in String](challenges/may_18_2020/)
 - May 19, 2020 - [Problem Name: Online Stock Span](challenges/may_19_2020/)
 - May 20, 2020 - [Problem Name: Kth Smallest Element in a BST](challenges/may_20_2020/)
+- May 21, 2020 - [Problem Name: Count Square Submatrices with All Ones](challenges/may_21_2020/)
