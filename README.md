@@ -24,3 +24,4 @@
 - May 22, 2020 - [Problem Name: Sort Characters By Frequency](challenges/may_22_2020/)
 - May 23, 2020 - [Problem Name: Interval List Intersections](challenges/may_23_2020/)
 - May 24, 2020 - [Problem Name: Construct Binary Search Tree from Preorder Traversal](challenges/may_24_2020/)
+- May 25, 2020 - [Problem Name: Uncrossed Lines](challenges/may_25_2020/)
