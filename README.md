@@ -26,3 +26,4 @@
 - May 24, 2020 - [Problem Name: Construct Binary Search Tree from Preorder Traversal](challenges/may_24_2020/)
 - May 25, 2020 - [Problem Name: Uncrossed Lines](challenges/may_25_2020/)
 - May 26, 2020 - [Problem Name: Contiguous Array](challenges/may_26_2020/)
+- May 27, 2020 - [Problem Name: Possible Bipartition](challenges/may_27_2020/)
