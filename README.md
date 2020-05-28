@@ -27,3 +27,4 @@
 - May 25, 2020 - [Problem Name: Uncrossed Lines](challenges/may_25_2020/)
 - May 26, 2020 - [Problem Name: Contiguous Array](challenges/may_26_2020/)
 - May 27, 2020 - [Problem Name: Possible Bipartition](challenges/may_27_2020/)
+- May 28, 2020 - [Problem Name: Counting Bits](challenges/may_28_2020/)
