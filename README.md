@@ -30,3 +30,4 @@
 - May 28, 2020 - [Problem Name: Counting Bits](challenges/may_28_2020/)
 - May 29, 2020 - [Problem Name: Course Schedule](challenges/may_29_2020/)
 - May 30, 2020 - [Problem Name: K Closest Points to Origin](challenges/may_30_2020/)
+- May 31, 2020 - [Problem Name: Edit Distance](challenges/may_31_2020/)
